@@ -1,4 +1,3 @@
-# HANDFULL
 # HandFull: A Python Library for Hand Gesture Recognition
 
 ![contribution](https://img.shields.io/badge/contributions-welcome-blue)
