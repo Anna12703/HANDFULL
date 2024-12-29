@@ -81,14 +81,6 @@ The project is organized as follows:
 ```
 HandFull/
 ├── hand_full/
-│   ├── __init__.py
-│   ├── hand_detector.py  # Core functionality for hand detection and recognition
-│   ├── model_trainer.py  # Model training and evaluation
-│   ├── visualization.py  # Tools for visualization and debugging
-├── examples/
-│   ├── real_time_demo.py
-│   ├── custom_training.py
-├── requirements.txt  # Required dependencies
 └── README.md          # Documentation
 ```
 
